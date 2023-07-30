@@ -1,0 +1,13 @@
+# Ignore Terraform state files
+*.tfstate
+*.tfstate.backup
+*.tfplan
+.terraform/
+
+# Ignore sensitive files (replace "secrets.tfvars" with the actual name of your secrets file)
+secrets.tfvars
+
+# Ignore temporary files and logs
+*.log
+*.tmp
+
