@@ -11,3 +11,4 @@ secrets.tfvars
 *.log
 *.tmp
 
+my-keypair*
